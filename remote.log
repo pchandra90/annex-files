@@ -1,0 +1,1 @@
+ffa9f4f1-85a2-4d2f-9444-8450a31d61cb bucket=amagitornado-test chunk=0 datacenter=US encryption=none host=s3.amazonaws.com name=s3-binaries port=80 storageclass=STANDARD type=S3 timestamp=1505909478.499615s
